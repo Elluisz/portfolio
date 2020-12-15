@@ -247,7 +247,7 @@ img{
     text-align: center;
 }
 .about__section{
-    background: url('/assets/img8.jpg') no-repeat left;
+    background: url('https://raw.githubusercontent.com/Elluisz/portfolio/master/assets/img8.jpg') no-repeat left;
     background-size: 950px;
     
     background-color: #fdfdfd;
